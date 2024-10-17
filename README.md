@@ -8,7 +8,7 @@ class AboutMe {
 -   val yearsOfExperience = 2
 +   val yearsOfExperience = 3
     val role = "Android Engineer"
-    val workingOn = "Open Source Projects"
+    val workingOn = "Image Picker "
 }
 
 
